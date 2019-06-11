@@ -1,0 +1,5 @@
+Escribe un programa en C el cual muestre la suma de todos los valores menores a un valor ingresado por teclado. Por ejemplo:
+
+Input: 2 ; Output: "La suma es 3"
+Input: 3 ; Output: "La suma es 6"
+Input: 4 ; Output: "La suma es 10"

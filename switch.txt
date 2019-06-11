@@ -1,0 +1,8 @@
+Escribe un programa en C el cual a partir de un numero ingresado por teclado muestre los reinos de la naturaleza. Por ejemplo:
+
+input: 1 ; output: "Reino Animal"
+input: 2 ; output: "Reino Vegetal"
+input: 3 ; output: "Reino Fungi"
+input: 4 ; output: "Reino Monera"
+input: 5 ; output: "Reino Protista"
+input: otro ; output: "Ingrese un numero valido"

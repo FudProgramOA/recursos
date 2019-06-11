@@ -1,0 +1,1 @@
+Escribe un programa en C el cual calcule el factorial de un numero ingresado por teclado.
